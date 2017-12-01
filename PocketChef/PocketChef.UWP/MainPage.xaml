@@ -1,0 +1,4 @@
+﻿<Page>
+    uwp:WindowsPage
+    xmlns:uwp="using:Xamarin.Forms.Platform.UWP"
+</Page>
